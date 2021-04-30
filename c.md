@@ -16,6 +16,7 @@ Reference
 
 Books
 -----
+* [The Definitive C Book Guide and List](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
 * [Modern C](https://modernc.gforge.inria.fr/)
 * [Writing Bug-Free C Code](https://www.duckware.com/bugfreec/index.html) (dated but useful)
 
