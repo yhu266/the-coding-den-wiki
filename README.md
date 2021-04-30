@@ -6,6 +6,7 @@ The Coding Den Wiki
 Pages
 -----
 
+* [C++](cpp.md)
 * [Machine Learning](machine-learning.md)
 
 Contributing
