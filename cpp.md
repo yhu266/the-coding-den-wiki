@@ -11,6 +11,7 @@ Reference
 ---------
 * [C++ reference](https://en.cppreference.com/w/cpp)
 * [Standard C++ Library reference](https://cplusplus.com/reference/)
+* [pre-Jacksonville mailing](https://isocpp.org/blog/2018/02/2018-02-pre-jacksonville-mailing-available)
 
 Books
 -----
