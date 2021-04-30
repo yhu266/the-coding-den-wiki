@@ -3,10 +3,10 @@ Machine Learning
 
 General Information
 -------------------
-* <https://en.wikipedia.org/wiki/Machine_learning>
-* <https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/>
-* <https://www.mathworks.com/discovery/machine-learning.html>
-* <https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/>
+* [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
+* [What is machine learning?](https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/)
+* [What Is Machine Learning?: 3 things you need to know](https://www.mathworks.com/discovery/machine-learning.html)
+* [What’s the Difference Between Artificial Intelligence, Machine Learning and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 
 Tutorials
 ---------
