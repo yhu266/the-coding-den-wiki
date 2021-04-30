@@ -20,6 +20,9 @@ Books
 -----
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
+Standard Documentations
+-----------------------
+
 Tools
 -----
 * [GCC](https://gcc.gnu.org/)
