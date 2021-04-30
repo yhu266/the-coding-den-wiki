@@ -7,6 +7,9 @@ Tutorials
 * [C++ Tutorials, by Caleb Curry](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG)
 * [C++ Tutorial for Beginners, by freeCodeCamp](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
+Courses
+-------
+
 Reference
 ---------
 * [C++ reference](https://en.cppreference.com/w/cpp)
