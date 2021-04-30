@@ -9,6 +9,7 @@ Pages
 * [C](c.md)
 * [C++](cpp.md)
 * [Machine Learning](machine-learning.md)
+* [Python](python.md)
 
 Contributing
 ------------
