@@ -9,7 +9,7 @@ Pages
 * [C](c.md)
 * [C++](cpp.md)
 * [Machine Learning](machine-learning.md)
-* [What Should I do?](wsid.md)
+* [What Should I Do?](wsid.md)
 
 Contributing
 ------------

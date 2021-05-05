@@ -1,4 +1,4 @@
-What Should I do?
+What Should I Do?
 =================
 
 Exercises
