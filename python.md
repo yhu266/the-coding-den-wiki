@@ -4,8 +4,6 @@ Python
 Tutorials
 ---------
 * [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide) (official guide for beginners)
-  * [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers) (lists of resources)
-  * [Python for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers) (lists of resources)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/) (official tutorial)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) (for people who know programming already)
 
