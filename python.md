@@ -15,6 +15,10 @@ Books
 -----
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) (for complete beginners to programming)
 * [A Byte of Python](https://python.swaroopch.com/)
+* [Python 3 Module of the Week](https://pymotw.com/3/) (important modules of the standard lib)
+* [Python Design Patterns](https://python-patterns.guide/) (idiomatic design patterns in Python)
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+* [Open Data Structures (in pseudocode)](http://opendatastructures.org/ods-python/) (compared to the runestone book, it covers additional topics such as Scapegoat Trees and Red-Black Trees)
 
 Projects
 --------
