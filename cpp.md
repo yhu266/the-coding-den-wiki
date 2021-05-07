@@ -15,6 +15,8 @@ Reference
 * [C++ reference](https://en.cppreference.com/w/cpp)
 * [Standard C++ Library reference](https://cplusplus.com/reference/)
 * [pre-Jacksonville mailing](https://isocpp.org/blog/2018/02/2018-02-pre-jacksonville-mailing-available)
+* [A pretty big list of C++ GUI libraries](https://www.reddit.com/r/cpp/comments/babfl5/a_pretty_big_list_of_c_gui_libraries/)
+* [C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 
 Books
 -----
