@@ -8,6 +8,7 @@ Pages
 
 * [C](c.md)
 * [C++](cpp.md)
+* [Editors and IDEs](editors-and-ides.md)
 * [Machine Learning](machine-learning.md)
 * [Python](python.md)
 * [What Should I Do?](wsid.md)
