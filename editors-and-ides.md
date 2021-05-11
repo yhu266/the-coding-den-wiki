@@ -13,13 +13,13 @@ Editors
 * [Sublime Text](https://www.sublimetext.com/) (Lightweight, simple, minimalist text editor with a powerful plugin system. Free)
 * [Atom](https://atom.io/) (Built by GitHub. A "hackable", powerful text editor with tons of functionality. Free)
 * [Vim](https://vim.org/) (Fast and versatile command line editor. Loved by programmers and system administrators alike. Free. Command-line interface)
-* [Neovim](https://neovim.io/)
-* [Emacs](https://www.gnu.org/software/emacs/)
-* [Micro](https://micro-editor.github.io/)
-* [gedit](https://wiki.gnome.org/Apps/Gedit)
-* [KWrite](https://www.kde.org/applications/utilities/kwrite/)
-* [Geany](https://www.geany.org/)
-* [Kate](https://kate-editor.org/)
+* [Neovim](https://neovim.io/) (A modern alternative to Vim, with even more features. Free)
+* [Emacs](https://www.gnu.org/software/emacs/) (Emacs is an open source text editor that features efficient commands for common but complex actions. Free)
+* [Micro](https://micro-editor.github.io/) (Micro is an ultra-lightweight command line editor. Free)
+* [gedit](https://wiki.gnome.org/Apps/Gedit) (Gedit is the default text editor that comes prepackaged with the GNOME desktop environment, a popular desktop environment used by many Linux distributions, such as Ubuntu. Free)
+* [Kate](https://kate-editor.org/) (Kate is the default text editor that compes prepackaged with the KDE desktop environment. Free)
+* [KWrite](https://www.kde.org/applications/utilities/kwrite/) (KWrite is a simpler version of Kate, without its more advanced features.)
+* [Geany](https://www.geany.org/) (Geany is a powerful text editor that functions a lot like an IDE, but without bogging down your system.)
 
 IDEs
 ----
